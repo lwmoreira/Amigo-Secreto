@@ -4,6 +4,8 @@
 
 Projeto para sorteio de amigo secreto desenvolvido para aprimorar habilidades em lógica de programação e manipulação de DOM com JavaScript.
 
+Projeto desenvolvido durante a trilha de estudos da Oracle turma 8 em conjunto com a Alura.
+
 ## 🚀 Funcionalidades
 
 - Adicionar nomes à lista de amigos
